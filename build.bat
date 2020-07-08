@@ -1,6 +1,7 @@
 @echo off
 
-:: SET DevDir=D:\CoolQ Pro\dev\me.cqp.tnze.demo
+#这里直接指定你所开发插件的目录
+:: SET DevDir=C:\酷Q Air\dev\me.qqbobot.demo
 
 echo Setting proxy
 SET GOPROXY=https://goproxy.cn
