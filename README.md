@@ -1,4 +1,6 @@
 # 一个酷Q插件
+[介绍博客](https://mtdhllf.github.io/qq-robot-01/)
+
 这里是你用Go开发酷Q插件的起点
 
 ## 开始
